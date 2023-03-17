@@ -33,6 +33,6 @@ pip install -r requirements.txt
 
 To run the application, execute the following command:
 
-``'
+```
 python tv_show_tracker.py
 ```
