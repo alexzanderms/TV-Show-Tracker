@@ -19,7 +19,9 @@ This Python application allows you to keep track of the TV shows you're watching
 
 Clone the repository:
 
-``git clone https://github.com/alexzanderms/tv-show-tracker.git``
+```
+git clone https://github.com/alexzanderms/tv-show-tracker.git
+```
 
 Install the required libraries:
 
