@@ -25,10 +25,14 @@ git clone https://github.com/alexzanderms/tv-show-tracker.git
 
 Install the required libraries:
 
-``pip install -r requirements.txt``
+```
+pip install -r requirements.txt
+```
 
 ##  Usage
 
 To run the application, execute the following command:
 
-``python tv_show_tracker.py``
+``'
+python tv_show_tracker.py
+```
