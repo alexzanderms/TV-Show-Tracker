@@ -1,4 +1,4 @@
-# TV-Show-Tracker
+# TV Show Tracker
 
 This Python application allows you to keep track of the TV shows you're watching and mark which episodes you've watched.
 
