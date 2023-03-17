@@ -2,39 +2,31 @@
 
 This Python application allows you to keep track of the TV shows you're watching and mark which episodes you've watched.
 
-# Features
-Search for TV shows on IMDb and add them to your watchlist
+## Features
 
-Add new episodes to your watchlist and mark them as watched
+- Search for TV shows on IMDb and add them to your watchlist
+- Add new episodes to your watchlist and mark them as watched
+- View your watchlist and see which episodes you've watched
 
-View your watchlist and see which episodes you've watched
+## Requirements
 
-# Requirements
-Python 3.x
+- Python 3.x
+- Tkinter library
+- Requests library
+- Beautiful Soup 4 library
 
-Tkinter library
+## Installation
 
-Requests library
-
-Beautiful Soup 4 library
-
-# Installation
 Clone the repository:
 
-bash
-
-Copy code
-
-git clone https://github.com/alexzanderms/tv-show-tracker.git
+``git clone https://github.com/alexzanderms/tv-show-tracker.git``
 
 Install the required libraries:
 
-Copy code
+``pip install -r requirements.txt``
 
-pip install -r requirements.txt
+##  Usage
 
-#  Usage
 To run the application, execute the following command:
 
-Copy code
-python tv_show_tracker.py
+``python tv_show_tracker.py``
